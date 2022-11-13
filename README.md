@@ -12,3 +12,6 @@ Each of the raspberry pi will have the ability to sense the audio of wood cuttin
 The audio recorded by the nodes will be converted to mel spectograms so that image processing algorithms can be applied on it.
 
 Then, ultimately the web application will provide the user with the insights about the nodes and the suspicous activities detected by them.
+
+
+![alt text](https://github.com/HarshithDR/DeMonS/blob/main/slide2.jpg?raw=true)
