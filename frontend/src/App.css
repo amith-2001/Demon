@@ -1,0 +1,28 @@
+.node {
+    height: 1.5rem;
+    width: 1.5rem;
+    background-color:greenyellow;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.tree
+{
+    object-fit: contain;
+    width: 100vh;
+    height:5rem;
+}
+  .space{
+    height: 7rem;
+
+  }
+
+  .box-shadow{
+    box-shadow: 0 0 2rem gray ;
+  }
+
+  .logo{
+    object-fit: contain;
+    width:100vh;
+    height: 10rem;
+  }
