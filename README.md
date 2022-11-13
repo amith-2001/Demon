@@ -25,8 +25,8 @@ Then, ultimately the web application will provide the user with the insights abo
 
 User interface: 
 
-![slide5](https://github.com/HarshithDR/DeMonS/blob/main/slide6.jpeg?raw=true)
-![slide5](https://github.com/HarshithDR/DeMonS/blob/main/slide6.jpeg?raw=true)
+![login page](https://github.com/HarshithDR/DeMonS/blob/main/webpage2.png?raw=true)
+![status page](https://github.com/HarshithDR/DeMonS/blob/main/webpage1.png?raw=true)
 
 model: 
-![slide5](https://github.com/HarshithDR/DeMonS/blob/main/slide6.jpeg?raw=true)
+![model training](https://github.com/HarshithDR/DeMonS/blob/main/modeltraining.jpeg?raw=true)
