@@ -23,6 +23,10 @@ The audio recorded by the nodes will be converted to mel spectograms so that ima
 
 Then, ultimately the web application will provide the user with the insights about the nodes and the suspicous activities detected by them.
 
+Hardware:
+
+![hardware](https://github.com/HarshithDR/DeMonS/blob/main/hardware.jpeg?raw=true)
+
 User interface: 
 
 ![login page](https://github.com/HarshithDR/DeMonS/blob/main/webpage2.png?raw=true)
