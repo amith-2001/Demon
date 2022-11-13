@@ -1,6 +1,9 @@
 # DeMonS
 Reva Hackathon
 
+Enitre model working video:
+https://drive.google.com/drive/folders/1weUh2qwiBye6WmyWo0A2AzxyhRaHCLfc?usp=share_link
+
 ![slide1](https://github.com/HarshithDR/DeMonS/blob/main/slide2.jpeg?raw=true)
 
 DeMonS stands for Deforestation Monitoring System. The basic idea is to facilitate the detection of illegal cutting of trees.
