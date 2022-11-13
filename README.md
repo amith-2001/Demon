@@ -33,4 +33,4 @@ User interface:
 ![status page](https://github.com/HarshithDR/DeMonS/blob/main/webpage1.png?raw=true)
 
 model: 
-![model training](https://github.com/HarshithDR/DeMonS/blob/main/modeltraining.jpeg?raw=true)
+![model training](https://github.com/HarshithDR/DeMonS/blob/main/model_training.jpeg?raw=true)
