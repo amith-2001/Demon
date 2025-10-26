@@ -37,3 +37,12 @@ User interface:
 
 model: 
 ![model training](https://github.com/HarshithDR/DeMonS/blob/main/model_training.jpeg?raw=true)
+
+
+
+Built by - 
+
+Harshith Deshalli Ravi 
+Amith Ramaswamy 
+Shanthanu Nagesh 
+Vaishnav Indra Kumar
